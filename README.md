@@ -38,9 +38,8 @@ The robot uses a vacuum pump to securely grasp lightweight objects and transport
 - USB Connection
 
 <div align="center">
-<img src="images/conn.png" width="500">
+<img src="images/conn.png" width="800">
 </div>
-
 
 ---
 
@@ -49,6 +48,17 @@ The robot uses a vacuum pump to securely grasp lightweight objects and transport
 - Python
 - pymycobot
 - NumPy
+
+<div align="center">
+<img src="images/1.jpeg" width="300">
+</div>
+
+<br></br>
+
+<div align="center">
+<img src="images/2.jpeg" width="300">
+</div>
+
 
 ---
 
